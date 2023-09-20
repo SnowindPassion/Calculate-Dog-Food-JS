@@ -1,1 +1,10 @@
-# Calculate-Dog-Food-JS
+# Mosaic Assessment
+## Setup 
+```bash
+npm i
+```
+
+## Test 
+```bash
+npm test
+```

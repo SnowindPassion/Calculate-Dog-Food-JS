@@ -1,0 +1,14 @@
+{
+  "name": "mosaic",
+  "version": "1.0.0",
+  "description": "Mosaic Assessment",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Michael Allen",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "type": "module"
+}
